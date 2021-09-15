@@ -2,7 +2,7 @@
 
 Flutter application for assessment.
 
-# Screenshot
+<h3> Screenshot </h3>
 
 <table>
   <tr>
