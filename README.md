@@ -2,7 +2,7 @@
 
 Flutter application for assessment.
 
-<h3> Screenshot </h3>
+### Screenshot
 
 <table>
   <tr>
@@ -13,7 +13,7 @@ Flutter application for assessment.
   </tr>
  </table>
  
- <h3> APK Link </h3>
+ ### APK Link
  [Download From Here](https://drive.google.com/file/d/1dg_TrJHMFh1RBJi5-JxRJpplSxhELpPd/view?usp=sharing)
 
 
