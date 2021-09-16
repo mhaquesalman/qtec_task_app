@@ -13,7 +13,7 @@ Flutter application for assessment.
   </tr>
  </table>
  
- ### APK Link
+ ### APK
  [Download From Here](https://drive.google.com/file/d/1dg_TrJHMFh1RBJi5-JxRJpplSxhELpPd/view?usp=sharing)
 
 
